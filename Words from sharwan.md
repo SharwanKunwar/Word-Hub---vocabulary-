@@ -25,4 +25,14 @@ Each day, we add **5 new words** with their meanings in **English and Nepali**.
 
 ---
 
+## 📆 **February 22, 2025**
 
+| #  | Word        | Meaning (English)                          | अर्थ (नेपाली)                |  
+|----|-------------|--------------------------------------------|------------------------------|  
+| 1  | **Innovate**   | To introduce new ideas or methods         | नवाचार गर्नु                |  
+| 2  | **Persistence** | The ability to continue despite difficulties | लगनशीलता                    |  
+| 3  | **Integrity**  | The quality of being honest and having strong morals | इमान्दारी             |  
+| 4  | **Resilient**  | Able to recover quickly from difficulties | कठिनाइबाट छिट्टै उक्लिन सक्ने |  
+| 5  | **Aspiration** | A strong desire to achieve something great | आकांक्षा                    |  
+
+---
